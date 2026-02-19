@@ -3,8 +3,9 @@ name: headline-optimization
 description: Evaluate and improve headlines using David Ogilvy's proven principles. Headlines are where you spend "eighty cents of your dollar.
 license: MIT
 metadata:
+  version: 1.0.4150
   author: sethmblack
-  version: 1.0.1
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - headline-optimization
 - writing
